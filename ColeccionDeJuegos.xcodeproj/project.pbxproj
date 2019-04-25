@@ -13,6 +13,7 @@
 		CD0DD7D72272438000603B51 /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CD0DD7D52272438000603B51 /* ColeccionDeJuegos.xcdatamodeld */; };
 		CD0DD7D92272438000603B51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0DD7D82272438000603B51 /* Assets.xcassets */; };
 		CD0DD7DC2272438000603B51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0DD7DA2272438000603B51 /* LaunchScreen.storyboard */; };
+		CD0DD7E422724ABE00603B51 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0DD7E322724ABE00603B51 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CD0DD7D82272438000603B51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD0DD7DB2272438000603B51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CD0DD7DD2272438000603B51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD0DD7E322724ABE00603B51 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CD0DD7CE2272438000603B51 /* AppDelegate.swift */,
 				CD0DD7D02272438000603B51 /* ViewController.swift */,
 				CD0DD7D22272438000603B51 /* Main.storyboard */,
+				CD0DD7E322724ABE00603B51 /* JuegosViewController.swift */,
 				CD0DD7D82272438000603B51 /* Assets.xcassets */,
 				CD0DD7DA2272438000603B51 /* LaunchScreen.storyboard */,
 				CD0DD7DD2272438000603B51 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CD0DD7D12272438000603B51 /* ViewController.swift in Sources */,
+				CD0DD7E422724ABE00603B51 /* JuegosViewController.swift in Sources */,
 				CD0DD7CF2272438000603B51 /* AppDelegate.swift in Sources */,
 				CD0DD7D72272438000603B51 /* ColeccionDeJuegos.xcdatamodeld in Sources */,
 			);
